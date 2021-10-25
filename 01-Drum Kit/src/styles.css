@@ -1,0 +1,10 @@
+#keys {
+    display: flex;
+}
+
+.key {
+    background-color: blue;
+    padding: 10px;
+    margin: 5px;
+    border: 1px;
+}
